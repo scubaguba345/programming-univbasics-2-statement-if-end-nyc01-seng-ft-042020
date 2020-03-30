@@ -1,1 +1,1 @@
-time.now
+p time.now 
